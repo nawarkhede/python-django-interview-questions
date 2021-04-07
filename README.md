@@ -61,4 +61,43 @@ Phytho django - Interview questions for experienced developer
 58. Wha is differnce between == and is ?
 59. What is eval ?
 60. What is str vs repr ?
-61. 
+61. How to implement multithreading and multiprocessing in python ?
+62. Explain life cycle of django project.
+63. What is the File structure of django project ?
+64. What is microservices architecture ?
+65. Monolithic vs microservies ?
+66. Pros and cons of microservices and monolithic ?
+67. Multiprocessing vs Multithreading ?
+68. What is docker ? What are the pros of using docker ?
+69. What is elasticsearch ?
+70. What is mongodb ? 
+71. SQL vs NOSQL ?
+72. Create django app with CRUD operations.
+73. How to manually connect to database in python ?
+74. Which pattern django follows [mtv] ?
+75. What is MTV patters and MTC components ?
+76. What is sql joins ? what are different types of joins ?
+77. What are SQL constraints ?
+78. What is SQL indexes ?
+79. What are the djnago singles,benifits of it ?
+80. What is django management commands, how do you create your own management command ?
+81. What is session and cookies ?
+82. How to do authentication in django REST ?
+83. What is difference between session based authentication and token based authentication ?
+84. What are design patterns ? Explain realtime usage of desgin patterns ?
+85. What is decorator in python ?
+86. What are top 10 security flows ?
+87. How to integrate payment gateway service ?
+88. What is the deployment mode in your organization, which pattern you follows ? What is green blue mode of deployment ?
+89. What is your deployment process ?
+90. Python mutable and immutable datatypes ?
+91. What are the ACID properties ?
+92. What is the process of normalization ?
+93. Complexity of sorting algorithms ?
+94. What are the OOPs concepts ? Explain with realwork example of each of it ?
+95. Which python/ django packages you have used ?
+96. Iterators vs generators ?
+97. What is reduce in Python ?
+98. How memory is managed in python ?
+99. x
+100. x
